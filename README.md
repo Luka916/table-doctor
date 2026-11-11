@@ -1,5 +1,12 @@
 # 表格急救箱 · Table Doctor
 
+> **⚠️ 本项目已合并到 [Luka916/csv-doctor](https://github.com/Luka916/csv-doctor)**
+>
+> **新地址（中文版）：https://luka916.github.io/csv-doctor/zh.html**
+>
+> 英文版是同一个仓库的 `index.html`。本仓库保留为路牌，`index.html` 会自动跳转过去，
+> 源码与全部历史提交完整保留，未删除任何内容。
+
 **一个单文件、纯本地、断网可用的 CSV 清洗工具。数据不上传。**
 
 打开 `index.html` 就能用，不需要安装、不需要联网、不需要注册。
